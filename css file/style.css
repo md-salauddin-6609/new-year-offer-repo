@@ -279,3 +279,34 @@
   font-size: 20px;
   color: #FFFFFF;
 }
+/* design footer section (nine-step) */
+.nine-step{
+  background-color: #070211;
+}
+.nine-step-first-colum{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 135px;
+}
+
+.nine-step-second-colum{
+  text-align: center;
+  padding: 48px 0px;
+}
+.nine-step-third-colum{
+  display: flex;
+  justify-content: space-between;
+}
+.nine-step-description{
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.padding-step{
+  padding: 120px 140px;
+}
+.nine-step-description-wiedth{
+  width: 375px;
+}
+.hr-color{
+  color: rgba(255, 255, 255, 0.15);
+}
