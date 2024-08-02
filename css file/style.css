@@ -1,0 +1,217 @@
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .merriweather-black {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .merriweather-light-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .merriweather-bold-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .merriweather-black-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+.inter-normal{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+/* design first-step section */
+.first-step{
+
+}
+.new-year{
+    text-align: center;
+    justify-content: center;
+    padding: 177px 344px;
+    color: white;
+}
+.sub-title{
+    font-size: 32px;
+}
+.title{
+    font-size: 72px;
+}
+
+/* design second section */
+.secont-step{
+    text-align: center;
+    margin-top: 80px;
+}
+.section-title{
+    width: bold;
+    font-size: 88px;
+    color: #FF0000;
+}
+.section-description{
+    width: bold;
+    font-size: 24px;
+    color: #FF0000;
+}
+.section-sub-title{
+    width: bold;
+    font-size: 48px;
+    color: #070211;
+}
+
+/* design third section */
+.wel-section{
+  text-align: center;
+  padding: 126px 266px;
+}
+.wel-section-title{
+  width: black;
+  font-weight: 640px;
+  font-size: 64px;
+  color: #FFFFFF;
+}
+.wel-section-description{
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.wel-section-join{
+  width: bold;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+/* design fourth section */
+.fourth-step{
+  background-color: beige;
+  margin: 120px 140px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 100px 244px;
+
+}
+.place-section{
+  text-align: center;
+  font-size: 30px;
+}
+.btn-primary{
+  background-color: rgba(255, 0, 0, 1);
+  border: none;
+  border-radius: 5px;
+  padding: 16px 30px;
+  width: bold;
+  font-size: 20px;
+}
+.colors{
+  color: #FF0000;
+}
+
+/* design fivth section */
+.fivth-step{
+  display: flex;
+  margin: 0px 140px;
+  gap: 70px;
+}
+
+.first-colum{
+  padding-top: 110px;
+  padding-bottom: 90px;
+}
+.second-colum{
+  padding-top: 10px;
+}
+.third-colum{
+  padding: 100px 0px 10px 48px;
+}
+
+.first-colum-sub-title{
+  font-weight: 600px;
+  font-size: 24;
+  color: #FF0000;
+}
+.first-colum-title{
+  font-weight: black;
+  font-size: 48px;
+  color: #070211;
+}
+.first-colum-description{
+  font-size: 20px;
+  color: rgba(7, 2, 17, 0.6);
+}
+
+.third-colum-title{
+  font-weight: bold;
+  font-size: 48px;
+  color: #FF0000;
+}
+.third-colum-description{
+  font-size: 20px;
+  color: rgba(7, 2, 17, 0.6);
+}
+
+/* design six section */
+.six-step{
+
+}
+.first-site{
+  text-align: center;
+  margin: 70px 266px;
+}
+#first-site-sub-title{
+  font-weight: 600px;
+  font-size: 24px;
+  color: #070211;
+}
+#first-site-title{
+  font-weight: black;
+  font-size: 72px;
+}
+
+#first-site-description{
+  font-weight: 600px;
+  font-size: 20px;
+  color: rgba(7, 2, 17, 0.6);
+
+}
+.title-span{
+  color: #FF0000;
+}
+.second-site{
+  display: flex;
+  justify-content: space-around;
+  background-image: url("/images/Rectangle\ 2.png");
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  margin: 80px 140px;
+  
+}
+
